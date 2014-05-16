@@ -11,7 +11,7 @@ Adds a Feature section to your WordPress website.
 
 == Description ==
 
-This plugin adds a feature custom post type to your WordPress website to manage your teams. It should work with any WordPress themes but you need to create templates for `archive-feature.php` and `single-feature.php` to display the team data.
+This plugin adds a feature custom post type to your WordPress website to manage your site features. It should work with any WordPress themes but you need to create templates for `archive-feature.php` and `single-feature.php` to display the features data.
 
 It has built-in meta boxes to add more data to the feature's item such as:  
 
@@ -23,7 +23,7 @@ It has built-in meta boxes to add more data to the feature's item such as:
 * Check out the [Github](https://github.com/themejunkie/theme-junkie-features-content) repo to contribute.
 
 = Note for Theme Junkie user =
-Please **DO NOT** install this plugin before we finish to migrate all themes to this plugin or it will be conflicted with Team post type in the theme you use.
+Please **DO NOT** install this plugin before we finish to migrate all themes to this plugin or it will be conflicted with Features post type in the theme you use.
 
 == Installation ==
 
@@ -54,7 +54,7 @@ Because we will move all custom post types in our themes to a plugins.
 
 == Screenshots ==
 
-1. Team screen
+1. Features screen
 2. Meta boxes
 
 == Changelog ==
